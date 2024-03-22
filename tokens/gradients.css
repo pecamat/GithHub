@@ -1,0 +1,15 @@
+
+:root {
+    --gradientGradientToken1: linear-gradient(
+          180deg,
+          #00000000 0%,   
+          #000000 100%  
+        )
+        ;    
+    --gradientGradientGradient01: linear-gradient(
+          135deg,
+          #00ffc2 0%,   
+          #7000ff 100%  
+        )
+        ;    
+}

@@ -1,0 +1,38 @@
+            
+            
+            .typographyTypographyToken1 
+            , .typographyTypographyToken3
+            {
+              font-family: "Inter";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 14px;
+              line-height: 20px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyTypographyToken2 
+            {
+              font-family: "Inter";
+              font-style: normal;
+              font-weight: 400;
+              font-size: var(--measureFontSizingTest);
+              line-height: 20px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyTypographyToken3 
+            {
+              font-family: "Inter";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 14px;
+              line-height: 20px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }
