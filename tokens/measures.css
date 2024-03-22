@@ -1,0 +1,9 @@
+
+:root {
+    --measureFontSizingTest: 12px;    
+    --measureSpacingToken1: 0px;    
+    --measureBorderRadiusRadiusSmall: 8px;    
+    --measureBorderRadiusRadiusMedium: 16px;    
+    --measureBorderRadiusRadiusLarge: 24px;    
+    --measureBorderRadiusRadiusFull: 50%;    
+}
