@@ -6,5 +6,6 @@
     --colorColorPurple: #7000ff;    
     --colorColorPink: #ff00ff;    
     --colorColorYellow: #ffde69;    
-    --colorColorTest: #00ff54;    
+    --colorColorTest: #ffffff;    
+    --colorColorTest: var(--colorColorTeal);    
 }
